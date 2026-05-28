@@ -6,4 +6,4 @@
 
 ## Tecnologias do meu dia-a-dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGGF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=GustavoGGF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
