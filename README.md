@@ -9,7 +9,5 @@
   <a href="https://github.com/jstrieb/github-stats">
     <img src="https://github.com/GustavoGGF/GustavoGGF/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub statistics" />
     <img src="https://github.com/GustavoGGF/GustavoGGF/blob/generated/languages.svg#gh-dark-mode-only" alt="Programming languages" />
-    <img src="https://github.com/GustavoGGF/GustavoGGF/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub statistics" />
-    <img src="https://github.com/GustavoGGF/GustavoGGF/blob/generated/languages.svg#gh-light-mode-only" alt="Programming languages" />
   </a>
 </div>
